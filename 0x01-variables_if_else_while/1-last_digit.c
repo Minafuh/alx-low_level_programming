@@ -4,7 +4,7 @@
 /* more headers goes there */
 /**
  * main - a program to print the last digit of a number
- * Return = 0 (succees)
+ * Return: 0 (succees)
  */
 /* betty style doc for function main goes there */
 int main(void)
