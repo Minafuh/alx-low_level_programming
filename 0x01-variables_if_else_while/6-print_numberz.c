@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	short signed int a;
+	short unsigned int a;
 
 	for (a = 0; a < 10; a++)
 	{
