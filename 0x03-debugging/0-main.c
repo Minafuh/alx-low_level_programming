@@ -9,12 +9,8 @@ int main(void)
 {
         int i;
 	
-	i = 98;
+	i = 0;
 	positive_or_negative(i);
-	if (i = 0)
-	{
-		printf ("%d id zero\n");
-	}
 
         return (0);
 }
