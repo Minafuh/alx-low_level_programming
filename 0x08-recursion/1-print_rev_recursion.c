@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts_recursion - function like puts();
+ * _print_rev_recursion - function that prints reverse string
  * @s: input
  * Return: Always 0 (Success)
  */
